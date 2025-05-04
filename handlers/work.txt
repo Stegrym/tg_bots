@@ -1,0 +1,8 @@
+ON
+    /start  (+)
+    /info   (Команда /help переделать имена)
+    /roll   (+)
+    /roll_inline.py
+
+OFF
+    /stegrybot  (Нету функционала)
